@@ -10,6 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20250218-114942" />
+    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.1.0-CI-20250218-122142" />
   </ItemGroup>
 </Project>
